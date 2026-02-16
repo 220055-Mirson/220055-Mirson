@@ -3,7 +3,7 @@
 🚀 **Engenheiro de Software Junior | JavaScript & C# (ASP.NET)** 🇲🇿
 
 
-Eu desenvolvo **Plataformas e Sistemas escalaveis** , **Sites e sistemas institucionais  para pequenas empresas e negocios** **Sistemas de gestao (SaaS) de alto desempenho**, com foco em **Seguranca,  e Codigo limpo**
+Eu desenvolvo **Plataformas e Sistemas escalaveis** , **Sites e sistemas para institucições e tambem para empresas e negocios.** **Sistemas de gestao (SaaS) de alto desempenho**, com foco em **Seguranca,  e Codigo limpo**
 
 
 
